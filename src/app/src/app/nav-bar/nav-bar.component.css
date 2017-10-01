@@ -1,0 +1,11 @@
+h1.title {
+	color: white;
+    font-family: Arial;
+    font-size: 280%;
+}
+
+h2.title {
+	color: gray;
+    font-family: Arial;
+    font-size: 100%;
+}
